@@ -9,43 +9,43 @@ sidebar:
     # Profile information
     name: Barbara Gravel
     tagline: PhD candidate in Bioinformatics
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Picture_1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: barbara.gravel@ulb.be
+    phone: +33(0)788147087
     citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    linkedin: barbaragravel
+    #xing: alandoe
+    #github: sharu725
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+    #bitbucket:
+    #twitter: '@webjeda'
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: English
+      - idiom: French
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Basic
 
     interests:
-      - item: Climbing
+      - item: Sports (Running, cycling and hiking)
         link:
 
-      - item: Snowboarding
+      - item: Travelling
         link:
 
-      - item: Cooking
+      - item: Reading, photography
         link:
 
 career-profile:
@@ -58,9 +58,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Bioinformatics and modelling
+      university: Université Libre de Bruxelles, Belgium
+      time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -69,15 +69,11 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Biology and Mathematics
+      university: McGill University, Canada
+      time: 2014 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Joint bachelor in biology and mathematics with a focus on cellular and molecular biology.
           - Bullet point
           - Bullet point
 experiences:
@@ -87,15 +83,15 @@ experiences:
       details: |
         Help students overcome their academic difficulties in different subjects.
     - role: Research Assistant in Bioinformatics
-      time: Summer 2019
+      time: July - August 2019
       company: Academia Sinica, Taipei, Taiwan
       details: |
         Participated in the malaria DREAM challenge. Developed a machine learning model to predict drug
         resistance of malaria parasites using transcriptomics data. Presentation of the results in a poster
         presentation.
     - role: Research Assistant in Biomathematics
-      time: 2012 - 2014
-      company: Amazon, London
+      time: May - September 2017
+      company: McGill University, Canada
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,6 +100,18 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+    - role: Research Assistant in Biophysics
+      time: May 2016 - April 2017
+      company: McGill University, Canada
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+          
 projects:
     title: Projects
     intro: >
@@ -134,24 +142,17 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Visualizing structure-mediated interactions in supercoiled DNA molecules"
+        link: "https://doi.org/10.1093/nar/gky266"
+        authors: S. Scott, Z.M. Xu, F. Kouzine, D. J. Berard, C. Shaheen, B. Gravel, L. Saunders, A. Hofkirchner, C. Leroux, J. Laurin, D. Levens, C. J. Benham, S. R. Leslie
+        conference: "Nucleic Acids Research, Volume 46, Issue 9, 18 May 2018, Pages 4622–4631"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Scaling up oligogenic diseases research with OLIDA: the Oligogenic Diseases Database"
+        link: "https://doi.org/10.1093/database/baac023"
+        authors: B. Gravel, C. Nachtegael, A. Dillen, G. Smits, A. Nowé, S. Papadimitriou, T. Lenaerts
+        conference: "Database: the journal of Biological Databases and curation, 2022"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
