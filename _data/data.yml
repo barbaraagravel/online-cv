@@ -62,7 +62,9 @@ education:
       time: 2020 - Present
       details: |
         Joint PhD at the Interuniversity Institute of Bioinformatis in Brussels (IB)2 under the supervision of Professors Tom Lenaerts and Ann Nowé. 
+        
         Recipient of a F.R.S FNRS Fund for Research Training in Industry and Agriculture (FRIA) PhD scholarship.
+        
         Work on the development of predictive tools to detect oligogenic causes to disease.
     - degree: MSc in Bioinformatics and modelling
       university: Université Libre de Bruxelles, Belgium
@@ -116,7 +118,7 @@ publications:
       - title: "Scaling up oligogenic diseases research with OLIDA: the Oligogenic Diseases Database"
         link: "https://doi.org/10.1093/database/baac023"
         authors: B. Gravel, C. Nachtegael, A. Dillen, G. Smits, A. Nowé, S. Papadimitriou, T. Lenaerts
-        conference: "Database: the journal of Biological Databases and curation, 2022"
+        conference: "Database: the journal of Biological Databases and curation, Volume 2022, 2022, baac023"
       - title: "Visualizing structure-mediated interactions in supercoiled DNA molecules"
         link: "https://doi.org/10.1093/nar/gky266"
         authors: S. Scott, Z.M. Xu, F. Kouzine, D. J. Berard, C. Shaheen, B. Gravel, L. Saunders, A. Hofkirchner, C. Leroux, J. Laurin, D. Levens, C. J. Benham, S. R. Leslie
