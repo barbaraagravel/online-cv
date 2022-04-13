@@ -5,7 +5,7 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    skills: True
+    skills: True 
     
     # Profile information
     name: Barbara Gravel
@@ -17,7 +17,7 @@ sidebar:
     phone: +33(0)788147087
     citizenship:
     #website: blog.webjeda.com #do not add http://
-    linkedin: barbara-gravel
+    linkedin: barbara-gravel-259877195
     #xing: alandoe
     #github: sharu725
     #telegram: # add your nickname without '@' sign
@@ -53,57 +53,60 @@ career-profile:
     title: Career Profile
     summary: |
       PhD candidate in Bioinformatics investigating how to use computational approaches to identify pathogenic oligogenic variant combinations in exome 
-      sequencing data. 
+      sequencing data. My work includes creating a database of disease-causing oligogenic combinations reported in the literature, using this data to create
+      a machine learning tool that is effectively able to prioritize variant combinations in exome sequencing data and then using this tool to identify 
+      potentially meaningful oligogenic signatures in epilepsy patients cohorts. 
 education:
     - degree: PhD in Bioinformatics
       university: Université Libre de Bruxelles & Vrije Universiteit Brussels, Belgium
       time: 2020 - Present
       details: |
-        Joint PhD at the Interuniversity Institute of Bioinformatisc in Brussels under the supervision of Professors Tom Lenaerts and Ann Nowé. 
+        Joint PhD at the Interuniversity Institute of Bioinformatis in Brussels (IB)2 under the supervision of Professors Tom Lenaerts and Ann Nowé. 
         Recipient of a F.R.S FNRS Fund for Research Training in Industry and Agriculture (FRIA) PhD scholarship.
         Work on the development of predictive tools to detect oligogenic causes to disease.
     - degree: MSc in Bioinformatics and modelling
       university: Université Libre de Bruxelles, Belgium
       time: 2018 - 2020
       details: |
+        Master Thesis title: "Improving prediction of disease-causing variant combinations in exomes, new features and other methods 
+        to reduce false-positives and false-negatives"
         Relevant courses: 
           - Statistical foundations of machine learning
           - Big data: Distributed Data management and scalable analytics
-          - Algorithms in computational biology |
-        Master Thesis title: "Improving prediction of disease-causing variant combinations in exomes, new features and other methods 
-        to reduce false-positives and false-negatives"
+          - Algorithms in computational biology 
     - degree: BSc in Biology and Mathematics
       university: McGill University, Canada
       time: 2014 - 2017
       details: |
         Joint bachelor in biology and mathematics with a focus on cellular and molecular biology.
 experiences:
-    - role: Academic utor in Mathematics, Biology and English
+    - role: Academic tutor in Mathematics, Biology and English
       time: 2015 - 2021
       company: Self-employed
       details: |
-        Help students overcome their academic difficulties in different subjects.
+        Help students overcome their academic difficulties in different subjects. 
+        Assist with their homework, projects, exam preparation and stress management.
     - role: Research Assistant in Bioinformatics
       time: July 2019 - August 2019
       company: Academia Sinica, Taipei, Taiwan
       details: |
         Participated in the malaria DREAM challenge. Developed a machine learning model to predict drug
         resistance of malaria parasites using transcriptomics data. Presentation of the results in a poster
-        presentation.
+        presentation. Worked under the supervision of Professor 
     - role: Research Assistant in Biomathematics
       time: May 2017 - September 2017
       company: McGill University, Canada
       details: |
         Recipient of the Natural Sciences and Engineering Research Council of Canada Undergraduate
         Student Research Award to work on synchronisation in ecological systems. Developed a mathematical 
-        model with delay differential equations and analysed the dynamics. Supervised by Professors Fred Guichard and
+        model with delay differential equations and analysed the dynamics. Worked under the supervision of  Professors Fred Guichard and
         Antony Humphries from the Biology and Mathematics departments respectively. 
     - role: Research Assistant in Biophysics
       time: May 2016 - April 2017
       company: McGill University, Canada
       details: |
-        Worked in the Leslie lab, to create DNA samples and investigate 
-        DNA topology using fluorescence microscopy and atomic force microscopy. 
+        Created DNA samples and investigated 
+        DNA topology using fluorescence microscopy and atomic force microscopy. Worked under the supervision of Professor Sabrina Leslie.
           
 
 publications:
@@ -124,23 +127,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
-
+    
+      - name: Scientific writing
+        level: 75%
+        
       - name: Postgres & SQL
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
         level: 60%
+
+      
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
