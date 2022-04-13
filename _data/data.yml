@@ -72,6 +72,7 @@ education:
       details: |
         Master Thesis title: "Improving prediction of disease-causing variant combinations in exomes, new features and other methods 
         to reduce false-positives and false-negatives"
+        
         Relevant courses: 
           - Statistical foundations of machine learning
           - Big data: Distributed Data management and scalable analytics
