@@ -5,6 +5,7 @@
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
+    skills: True
     
     # Profile information
     name: Barbara Gravel
@@ -51,13 +52,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      PhD candidate in Bioinformatics investigating how to use computational approaches to identify pathogenic oligogenic variant combinations in exome 
+      sequencing data. 
 education:
+    - degree: PhD in Bioinformatics
+      university: Université Libre de Bruxelles & Vrije Universiteit Brussels, Belgium
+      time: 2020 - Present
+      details: |
+        Joint PhD at the Interuniversity Institute of Bioinformatisc in Brussels under the supervision of Professors Tom Lenaerts and Ann Nowé. 
+        Recipient of a F.R.S FNRS Fund for Research Training in Industry and Agriculture (FRIA) PhD scholarship.
+        Work on the development of predictive tools to detect oligogenic causes to disease.
     - degree: MSc in Bioinformatics and modelling
       university: Université Libre de Bruxelles, Belgium
       time: 2018 - 2020
@@ -65,7 +69,7 @@ education:
         Relevant courses: 
           - Statistical foundations of machine learning
           - Big data: Distributed Data management and scalable analytics
-          - Algorithms in computational biology
+          - Algorithms in computational biology |
         Master Thesis title: "Improving prediction of disease-causing variant combinations in exomes, new features and other methods 
         to reduce false-positives and false-negatives"
     - degree: BSc in Biology and Mathematics
@@ -80,14 +84,14 @@ experiences:
       details: |
         Help students overcome their academic difficulties in different subjects.
     - role: Research Assistant in Bioinformatics
-      time: July - August 2019
+      time: July 2019 - August 2019
       company: Academia Sinica, Taipei, Taiwan
       details: |
         Participated in the malaria DREAM challenge. Developed a machine learning model to predict drug
         resistance of malaria parasites using transcriptomics data. Presentation of the results in a poster
         presentation.
     - role: Research Assistant in Biomathematics
-      time: May - September 2017
+      time: May 2017 - September 2017
       company: McGill University, Canada
       details: |
         Recipient of the Natural Sciences and Engineering Research Council of Canada Undergraduate
@@ -101,46 +105,19 @@ experiences:
         Worked in the Leslie lab, to create DNA samples and investigate 
         DNA topology using fluorescence microscopy and atomic force microscopy. 
           
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
     papers:
-      - title: "Visualizing structure-mediated interactions in supercoiled DNA molecules"
-        link: "https://doi.org/10.1093/nar/gky266"
-        authors: S. Scott, Z.M. Xu, F. Kouzine, D. J. Berard, C. Shaheen, B. Gravel, L. Saunders, A. Hofkirchner, C. Leroux, J. Laurin, D. Levens, C. J. Benham, S. R. Leslie
-        conference: "Nucleic Acids Research, Volume 46, Issue 9, 18 May 2018, Pages 4622–4631"
-
       - title: "Scaling up oligogenic diseases research with OLIDA: the Oligogenic Diseases Database"
         link: "https://doi.org/10.1093/database/baac023"
         authors: B. Gravel, C. Nachtegael, A. Dillen, G. Smits, A. Nowé, S. Papadimitriou, T. Lenaerts
         conference: "Database: the journal of Biological Databases and curation, 2022"
+      - title: "Visualizing structure-mediated interactions in supercoiled DNA molecules"
+        link: "https://doi.org/10.1093/nar/gky266"
+        authors: S. Scott, Z.M. Xu, F. Kouzine, D. J. Berard, C. Shaheen, B. Gravel, L. Saunders, A. Hofkirchner, C. Leroux, J. Laurin, D. Levens, C. J. Benham, S. R. Leslie
+        conference: "Nucleic Acids Research, Volume 46, Issue 9, 18 May 2018, Pages 4622–4631"
 
 
 skills:
@@ -150,7 +127,7 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Postgres & SQL
         level: 98%
 
       - name: Angular
