@@ -81,9 +81,9 @@ education:
         Joint bachelor in biology and mathematics with a focus on cellular and molecular biology.
 experiences:
     - role: PhD candidate in Bioinformatics
-    time: October 2020 - Present
-    company: Interuniversity Institute of Bioinformatics in Brussels (IB)^2
-    details: | 
+      time: October 2020 - Present
+      company: Interuniversity Institute of Bioinformatics in Brussels (IB)^2
+      details: | 
         Work on the development of predictive tools to detect oligogenic causes to disease. 
         Development of a database collecting all combinations of variants
         involved in an oligogenic disease reported in the literature.
@@ -131,29 +131,50 @@ publications:
         authors: S. Scott, Z.M. Xu, F. Kouzine, D. J. Berard, C. Shaheen, B. Gravel, L. Saunders, A. Hofkirchner, C. Leroux, J. Laurin, D. Levens, C. J. Benham, S. R. Leslie
         conference: "Nucleic Acids Research, Volume 46, Issue 9, 18 May 2018, Pages 4622–4631"
 
+projects:
+    title: Skills
+    intro: >
+    assignments:
+      - title: Programming
+        link: ""
+        tagline: "Proficient: Python, R, Bash, SQL, Latex 
+                
+                Familiar: Java, JavaScript, HTML"
 
-skills:
-    title: Skills &amp; Proficiency
+      - title: Scientific Toolbox
+        link: ""
+        tagline: "Pandas, SciPy, NumPy, sklearn, Seaborn"
 
-    toolset:
-      - name: Python 
-        level: 98%
-      - name: R
-        level: 98%
-      - name: Bash
-        level: 60%
-      - name: SQL
-        level: 80%
-      - name: JavaScript
-        level: 30%
-      - name: HTML
-        level: 40%
-      - name: Python scientific toolbox (pandas, scipy, numpy, sklearn, seaborn)
-        level: 80%
-      - name: Scientific writing
-        level: 75%
-      - name: Postgres & SQL
-        level: 60%
+      - title: Parallel computing
+        link: ""
+        tagline: "Hadoop, Multithreading"
+
+      - title: Storage
+        link: ""
+        tagline: "Postgres, Neo4J"
+
+#skills:
+#    title: Skills &amp; Proficiency
+
+#    toolset:
+#      - name: Python 
+#        level: 98%
+#      - name: R
+#        level: 98%
+#      - name: Bash
+#        level: 60%
+ #     - name: SQL
+#        level: 80%
+#      - name: JavaScript
+#        level: 30%
+#      - name: HTML
+#        level: 40%
+#      - name: Python scientific toolbox (pandas, scipy, numpy, sklearn, seaborn)
+#        level: 80%
+#      - name: Scientific writing
+#        level: 75%
+#      - name: Postgres & SQL
+#        level: 60%
 
       
 
