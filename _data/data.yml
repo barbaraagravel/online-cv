@@ -142,7 +142,10 @@ projects:
       - title: Scientific Toolbox
         #link: ""
         tagline: "Pandas, SciPy, NumPy, sklearn, Seaborn"
-
+     
+      - title: Machine learning
+        tagline: "Feature selection methods, Random Forests, Decision trees, Classification, Ensemble learning, Explainability"
+        
       - title: Parallel computing
         #link: ""
         tagline: "Hadoop, Multithreading"
@@ -152,8 +155,8 @@ projects:
         tagline: "Postgres, Neo4J"
      # - title: 
      #   tagline: "Git (versioning), Technical documentation"
-      - title: Communication
-        tagline: "Scientific writing, Conference presentation, Poster presentation"
+      - title: Scientific communication
+        tagline: "Scientific writing, Academic presentations, Poster presentations"
 
 #skills:
 #    title: Skills &amp; Proficiency
