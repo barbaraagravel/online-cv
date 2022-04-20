@@ -26,7 +26,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: French
@@ -136,21 +136,19 @@ projects:
     intro: >
     assignments:
       - title: Programming
-        link: ""
-        tagline: "Proficient: Python, R, Bash, SQL, Latex 
-                
-                Familiar: Java, JavaScript, HTML"
+        #link: ""
+        tagline: "Python (proficient), R (proficient), Bash (proficient), SQL (proficient), Latex (proficient), Java (familiar), JavaScript(familiar), HTML(familiar)"
 
       - title: Scientific Toolbox
-        link: ""
+        #link: ""
         tagline: "Pandas, SciPy, NumPy, sklearn, Seaborn"
 
       - title: Parallel computing
-        link: ""
+        #link: ""
         tagline: "Hadoop, Multithreading"
 
       - title: Storage
-        link: ""
+        #link: ""
         tagline: "Postgres, Neo4J"
 
 #skills:
