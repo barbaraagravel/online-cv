@@ -52,8 +52,9 @@ career-profile:
     title: Career Profile
     summary: |
       PhD candidate in Bioinformatics investigating how to use computational approaches to identify pathogenic oligogenic variant combinations in exome 
-      sequencing data. My work includes creating a database of disease-causing oligogenic combinations reported in the literature, using this data to create
-      a machine learning tool that is effectively able to prioritize variant combinations in exome sequencing data and then using this tool to identify 
+      sequencing data. The main goals of my projects are to create a database of disease-causing oligogenic combinations reported in the literature,
+      use this data to train a machine learning tool that is effectively able to prioritize variant combinations in exome sequencing data and then 
+      use this tool to identify 
       potentially meaningful oligogenic signatures in epilepsy patients cohorts. 
 education:
     - degree: PhD in Bioinformatics
