@@ -101,7 +101,7 @@ experiences:
       details: |
         Participated in the malaria DREAM challenge. Developed a machine learning model to predict drug
         resistance of malaria parasites using transcriptomics data. Presentation of the results in a poster
-        presentation. Worked under the supervision of Professor 
+        presentation. Worked under the supervision of Professor Ming-Jing Hwang.
     - role: Research Assistant in Biomathematics
       time: May 2017 - September 2017
       company: McGill University, Canada
@@ -137,7 +137,7 @@ projects:
     assignments:
       - title: Programming
         #link: ""
-        tagline: "Python (proficient), R (proficient), Bash (proficient), SQL (proficient), Latex (proficient), Java (familiar), JavaScript(familiar), HTML(familiar)"
+        tagline: "Python, R, Bash, SQL, Latex, Java, JavaScript, HTML"
 
       - title: Scientific Toolbox
         #link: ""
@@ -150,6 +150,10 @@ projects:
       - title: Storage
         #link: ""
         tagline: "Postgres, Neo4J"
+     # - title: 
+     #   tagline: "Git (versioning), Technical documentation"
+      - title: Communication
+        tagline: "Scientific writing, Conference presentation, Poster presentation"
 
 #skills:
 #    title: Skills &amp; Proficiency
