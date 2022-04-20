@@ -63,8 +63,6 @@ education:
         Joint PhD at the Interuniversity Institute of Bioinformatis in Brussels (IB)2 under the supervision of Professors Tom Lenaerts and Ann Nowé. 
         
         Recipient of a F.R.S FNRS Fund for Research Training in Industry and Agriculture (FRIA) PhD scholarship.
-        
-        Work on the development of predictive tools to detect oligogenic causes to disease.
     - degree: MSc in Bioinformatics and modelling
       university: Université Libre de Bruxelles, Belgium
       time: 2018 - 2020
@@ -86,7 +84,11 @@ experiences:
     time: October 2020 - Present
     company: Interuniversity Institute of Bioinformatics in Brussels (IB)^2
     details: | 
-        
+        Work on the development of predictive tools to detect oligogenic causes to disease. 
+        Development of a database collecting all combinations of variants
+        involved in an oligogenic disease reported in the literature.
+        Train a machine learning model to distinguish between pathogenic and neutral variant combinations using different 
+        features and biological networks. 
     - role: Academic tutor in Mathematics, Biology and English
       time: 2015 - 2021
       company: Self-employed
@@ -150,7 +152,6 @@ skills:
         level: 80%
       - name: Scientific writing
         level: 75%
-        
       - name: Postgres & SQL
         level: 60%
 
